@@ -1,0 +1,5 @@
+node1_ip: 192.168.230.21
+node2_ip: 192.168.230.22
+virtual_ip: 192.168.230.20
+node1_hostname: web1
+node2_hostname: web2
